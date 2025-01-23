@@ -1,0 +1,7 @@
+C:\bin\publish\MyMVCapp.exe
+C:\bin\publish\appsettings.Development.json
+C:\bin\publish\appsettings.json
+C:\bin\publish\MyMVCapp.dll
+C:\bin\publish\MyMVCapp.deps.json
+C:\bin\publish\MyMVCapp.runtimeconfig.json
+C:\bin\publish\MyMVCapp.pdb

@@ -1,0 +1,7 @@
+C:\IAC-DevOps-AZ\MyMVCapp\bin\publish\MyMVCapp.exe
+C:\IAC-DevOps-AZ\MyMVCapp\bin\publish\appsettings.Development.json
+C:\IAC-DevOps-AZ\MyMVCapp\bin\publish\appsettings.json
+C:\IAC-DevOps-AZ\MyMVCapp\bin\publish\MyMVCapp.dll
+C:\IAC-DevOps-AZ\MyMVCapp\bin\publish\MyMVCapp.deps.json
+C:\IAC-DevOps-AZ\MyMVCapp\bin\publish\MyMVCapp.runtimeconfig.json
+C:\IAC-DevOps-AZ\MyMVCapp\bin\publish\MyMVCapp.pdb
